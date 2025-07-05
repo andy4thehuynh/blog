@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Go on Andys Blog</title>
+    <link>https://example.org/tags/go/</link>
+    <description>Recent content in Go on Andys Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Jul 2025 13:58:33 -0600</lastBuildDate>
+    <atom:link href="https://example.org/tags/go/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How I Built My Personal Website with Hugo, GitHub Pages, and a Custom Domain</title>
+      <link>https://example.org/posts/how-to-host-your-hugo-blog-on-github-pages/</link>
+      <pubDate>Sat, 05 Jul 2025 13:58:33 -0600</pubDate>
+      <guid>https://example.org/posts/how-to-host-your-hugo-blog-on-github-pages/</guid>
+      <description>&lt;p&gt;After some research and trial-and-error, I successfully built and deployed my personal website using the &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo static site generator&lt;/a&gt;, a minimalist theme called &lt;a href=&#34;https://github.com/panr/hugo-theme-terminal&#34;&gt;Terminal&lt;/a&gt;, GitHub Pages for hosting, and my own domain from Porkbun. Here&amp;rsquo;s how I did it:&lt;/p&gt;&#xA;&lt;h3 id=&#34;step-1-i-installed-hugo&#34;&gt;Step 1: I Installed Hugo&lt;/h3&gt;&#xA;&lt;p&gt;I installed Hugo on my local machine using Homebrew (macOS) or apt (Linux). It was easy to verify with &lt;code&gt;hugo version&lt;/code&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;step-2-i-created-a-new-site&#34;&gt;Step 2: I Created a New Site&lt;/h3&gt;&#xA;&lt;p&gt;I ran &lt;code&gt;hugo new site myblog&lt;/code&gt; to scaffold a new site, then added the Terminal theme as a submodule.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
